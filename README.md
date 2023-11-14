@@ -1,53 +1,74 @@
- # Project 5 - *Tumblr App*
+# African-American history facts app
 
-Submitted by: **Jhonelle Moore**
+## Table of Contents
 
-**Tumblr app** is an app that displays a screen of posts from users
+1. [Overview](#Overview)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Schema](#Schema)
 
-Time spent: **5** hours spent in total
+## Overview
 
-## Required Features
+### Description
+The Jamaican news app is a user-friendly educational app that provides a daily dose of jamaica's news to its users. The user has an option to save their favorite news!
 
-The following **required** functionality is completed:
+### App Evaluation
+- **Category:** Education / Black Studies
+- **Mobile:** Mobile app for daily news insights.
+- **Story:**: Educates users, and informs them about new events.
+- **Market:**: Jamaicans, Parents, students, everyone interested in getting a snippet of the news.
+- **Habit:**: Users explore new news and save them to share them in the future.
+- **Scope:**: V1 focuses on daily news
 
-- [x] App has a configured table view and table view call
-- [x] App populates the table view with data fetched from an API
+## Product Spec
+### 1. User Stories (Required and Optional)
+**Required Must-have Stories**
+* User can view atleast 1 news item per day
+* User can view additional information on that news item for their own personal research
+* User can save their favorite news item from each day.
+
+**Optional Nice-to-have Stories**
+* User can share their news feed on social media
+* User can get quizzed on their saved news.
+
+### 2. Screen Archetypes
+- [ ] Stream
+* User can view a list of news stories per day
+* User can save liked news stories
+- [ ] Detail
+* User can click on a news story and see more information
+
+### 3. Navigation
+**Tab Navigation** (Tab to Screen)
+* Facts
+* Favorites
+
+**Flow Navigation (Screen to Screen)**
+* Facts screen -> Details screen
+* Favorites screen -> Quizzes screen 
+
+## Wireframes
+![](img1.jpg)
+![](img2.jpg)
 
 
-The following **optional** features are implemented:
+### [BONUS] Digital Wireframes & Mockups
 
-- [ ] App fetches posts from a different Tumblr blog
-- [ ] App has a refresh control to update the table view
+### [BONUS] Interactive Prototype
 
-The following **additional** features are implemented:
+## Schema 
 
-- [ ] List anything else that you can get done to improve the app functionality!
+[This section will be completed in Unit 9]
 
-## Video Walkthrough
+### Models
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+[Add table of models]
 
-<div>
-    <a href="https://www.loom.com/share/99609abcd86d453fba0b56766465414a?sid=aafb98fb-a47a-4aeb-af77-6a330c2cfa55">
-    </a>
-    <a href="https://www.loom.com/share/99609abcd86d453fba0b56766465414a?sid=aafb98fb-a47a-4aeb-af77-6a330c2cfa55">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c2357a2c6bb448e9a7ac6b0d305e0c95-with-play.gif">
-    </a>
-  </div>
+### Networking
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-## License
-
-    Copyright [2023] [Jhonelle Moore]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
+- [Add list of network requests by screen ]
+- [Create basic snippets for each Parse network request]
+- [OPTIONAL: List endpoints if using existing API such as Yelp]
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
