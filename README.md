@@ -1,4 +1,4 @@
-# African-American history facts app
+# Jamaican News app
 
 ## Table of Contents
 
