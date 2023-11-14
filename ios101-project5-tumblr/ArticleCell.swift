@@ -1,17 +1,17 @@
 //
-//  PostCell.swift
+//  ArticleCell.swift
 //  ios101-project5-tumblr
 //
-//  Created by Jhonelle Moore on 10/15/23.
+//  Created by Jhonelle Moore on 11/13/23.
 //
 
 import UIKit
 
-class PostCell: UITableViewCell {
+class ArticleCell: UITableViewCell {
 
-    @IBOutlet weak var PostImageView: UIImageView!
+    @IBOutlet weak var titleLabel: UILabel!
     
-    @IBOutlet weak var PostSummary: UILabel!
+    @IBOutlet weak var descripLabel: UILabel!
     
     override func awakeFromNib() {
         super.awakeFromNib()
