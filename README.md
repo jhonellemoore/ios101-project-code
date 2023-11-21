@@ -25,9 +25,9 @@ The Jamaican news app is a user-friendly educational app that provides a daily d
 **Required Must-have Stories**
 * User can view atleast 1 news item per day
 * User can view additional information on that news item for their own personal research
-* User can save their favorite news item from each day.
 
 **Optional Nice-to-have Stories**
+* User can save their favorite news item from each day.
 * User can share their news feed on social media
 * User can get quizzed on their saved news.
 
