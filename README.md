@@ -14,8 +14,7 @@ The Jamaican news app is a user-friendly educational app that provides a daily d
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
+Here is a walkthrough of the application.
 <div>
     <a href="https://www.loom.com/share/be04ddcdb6c345a283f20a3ce3b551f9?sid=f7624507-3f95-4d7f-bc6e-9b59a7f4d889">
     </a>
