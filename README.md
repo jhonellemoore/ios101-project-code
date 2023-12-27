@@ -59,29 +59,6 @@ Here is a walkthrough of the application.
 * Facts screen -> Details screen
 * Favorites screen -> Quizzes screen 
 
-## Wireframes
-![](img1.jpg)
-![](img2.jpg)
-
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-
-[This section will be completed in Unit 9]
-
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
-
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
